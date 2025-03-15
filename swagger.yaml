@@ -4,7 +4,7 @@ info:
   description: Documentación de mi API
   version: 1.0.0
 servers:
-  - url: https://d4rhs0ul.github.io/swagger/swagger-ui/
+  - url: https://d4rhs0ul.github.io/swagger/
 paths:
   /ejemplo:
     get:
