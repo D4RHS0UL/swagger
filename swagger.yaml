@@ -4,7 +4,7 @@ info:
   description: Documentación de mi API
   version: 1.0.0
 servers:
-  - url: https://api.misitio.com/v1
+  - url: https://d4rhs0ul.github.io/swagger/swagger-ui/
 paths:
   /ejemplo:
     get:
